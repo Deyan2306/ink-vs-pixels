@@ -1,0 +1,9 @@
+MAL anime and manga dataset - https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist?select=manga.csv
+Comic book sales - https://comichron.com/monthlycomicssales/2021/2021-09.html
+Comic book earnings - https://www.comichron.com/yearlycomicssales.html
+Manga yearly sales (2020) - https://twitter.com/WSJ_manga/status/1362048410568843270/photo/1
+Someanything magna sales dataset - https://docs.google.com/spreadsheets/d/1A33miTSU1NHdVO7F8kMT68wgkM6uW8YThKPEsDvLKsc/edit#gid=427506025
+Comic books current values and other data - https://www.kaggle.com/datasets/iasonaskatechis/comic-books-current-values-and-other-data
+Manga 109 - http://www.manga109.org/en/
+Best selling manga - https://www.kaggle.com/datasets/drahulsingh/best-selling-manga
+Anime Recomendations Database - https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
