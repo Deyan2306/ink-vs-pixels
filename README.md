@@ -1,5 +1,4 @@
-### SoftUni's Data Science course final project.
-Hi! This is the folder containing my final project.
+### Ink vs Pixels
 
 
 * Note: I intentionally left the `.git` folder, so you could check the tree if you are interested in my project building process.
